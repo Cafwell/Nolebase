@@ -99,7 +99,7 @@ Further, at 110 h AEL, Otd is already expressed in D. mauritiana but not detecte
 
 Loss of otd in clones resulted in disorganised ommatidia with perturbed shapes and sizes – often smaller than those of ommatidia of controls
 
-![[../../assets/Otd_lack.png|300]]
+![1|550](../../assets/Otd_lack.png)
 
 ## Differences in chromatin accessibility in the otd locus during eye development 
 
